@@ -81,21 +81,21 @@ const InformationsScreen: FC = () => {
         <TileGrid>
           <TileRow>
             <TileColumn>
-              <InfoCard image={require('assets/images/info/mowcy.png')} link="/info/mowcy">
+              <InfoCard image={require('assets/images/info/mowcy.jpg')} link="/info/mowcy">
                 Mówcy
               </InfoCard>
             </TileColumn>
           </TileRow>
           <TileRow>
             <TileColumn>
-              <InfoCard image={require('assets/images/info/teksty.png')} link="/info/koncert">
+              <InfoCard image={require('assets/images/info/teksty.jpg')} link="/info/koncert">
                 Koncert na plaży
               </InfoCard>
             </TileColumn>
           </TileRow>
           <TileRow>
             <TileColumn>
-              <InfoCard image={require('assets/images/info/regulamin.png')} link="/info/regulamin">
+              <InfoCard image={require('assets/images/info/regulamin.jpg')} link="/info/regulamin">
                 Regulamin
               </InfoCard>
             </TileColumn>
