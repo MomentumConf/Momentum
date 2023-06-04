@@ -5,7 +5,7 @@
   "default_locale": "pl",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#af2c24",
+  "theme_color": "#2cf0b2",
   "background_color": "#121212",
   "icons": [
     {
