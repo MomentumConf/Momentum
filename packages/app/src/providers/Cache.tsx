@@ -8,7 +8,7 @@ import { useGetScheduleQuery, useGetSpeakersQuery, useGetSongsQuery } from '@-lo
 import { FullLoader } from 'components/Loader'
 
 const cacheResourcesAsync = async () => {
-  const assests = [require('assets/images/info/mowcy.png')]
+  const assests = [require('assets/images/info/mowcy.jpg')]
 
   const fontAssets = [
     FontAwesome.font,
